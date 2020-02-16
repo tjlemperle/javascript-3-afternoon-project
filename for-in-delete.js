@@ -39,8 +39,12 @@
   Inside the function showValues, write a for in loop that concatenates each of the property values and returns the concatenated string.
 */
 
-function showValues( obj ) {
-  //Code Here
+function showValues(obj) {
+  let str ='';
+  for(let key in obj){
+    str += ;
+  }
+  return str;  
 }
 
 

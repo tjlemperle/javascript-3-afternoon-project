@@ -90,7 +90,7 @@ function ingredients(obj) {
   return newArray;
 }
 
-
+ console.log(ingredients);
 
 
 ////////// PROBLEM 5 //////////

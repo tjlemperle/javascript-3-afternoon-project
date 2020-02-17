@@ -112,10 +112,10 @@ function largeNumbers(obj){
     if(first < second && first < third){
       return first;
     } else if(second < third){
-      return second;
+      return second; 
     } else {
       return third;
-    }
+    }   
 } 
 
 
